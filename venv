@@ -1,0 +1,5 @@
+# virtualenvwraper
+export WORKON_HOME=$HOME/.venvs
+export PROJECT_HOME=$HOME/Documents/projects/python
+export VIRTUALENVWRAPPER_SCRIPT=/usr/share/virtualenvwrapper/virtualenvwrapper.sh
+source /usr/share/virtualenvwrapper/virtualenvwrapper_lazy.sh

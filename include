@@ -1,0 +1,7 @@
+if [ -f "$HOME/Documents/dotfiles/ps1" ]; then
+        source "$HOME/Documents/dotfiles/ps1";
+fi
+
+if [ -f "$HOME/Documents/dotfiles/venv" ]; then
+        source "$HOME/Documents/dotfiles/venv";
+fi
